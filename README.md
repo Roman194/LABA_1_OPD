@@ -1,5 +1,5 @@
 LABA_1_OPD
--Me1: I think it's my first laba project
+-Me1: I think it's my first laba project\n
 -Me2: Yes, it's looks like that
 -Me2: Have we done everything in proper condition?
 -Me1: I don't know
