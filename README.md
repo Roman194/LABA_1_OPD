@@ -1,4 +1,5 @@
 LABA_1_OPD <br />
+Variant 6: Получить список вакансий по поиску Python с сайта hh.ru , результат записать в файл формата .xlsx <br />
 -Me1: I think it's my first laba project <br />
 -Me2: Yes, it's looks like that <br />
 -Me2: Have we done everything in proper condition? <br />
